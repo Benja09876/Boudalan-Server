@@ -1,0 +1,110 @@
+[06:20:45] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[06:20:45] [main/INFO]: Loading 47 mods:
+	- fabric-api 0.112.1+1.21.3
+	   |-- fabric-api-base 0.4.50+119c825640
+	   |-- fabric-api-lookup-api-v1 1.6.81+fd37071f40
+	   |-- fabric-biome-api-v1 14.0.6+fd37071f40
+	   |-- fabric-block-api-v1 1.0.28+fd37071f40
+	   |-- fabric-block-view-api-v2 1.0.16+fd37071f40
+	   |-- fabric-blockrenderlayer-v1 2.0.4+fd37071f40
+	   |-- fabric-client-tags-api-v1 1.1.25+a730659c40
+	   |-- fabric-command-api-v1 1.2.58+f71b366f40
+	   |-- fabric-command-api-v2 2.2.37+c9d82ab240
+	   |-- fabric-commands-v0 0.2.75+df3654b340
+	   |-- fabric-content-registries-v0 9.1.8+fd37071f40
+	   |-- fabric-convention-tags-v1 2.1.4+7f945d5b40
+	   |-- fabric-convention-tags-v2 2.9.4+129f0c1f40
+	   |-- fabric-crash-report-info-v1 0.3.3+fd37071f40
+	   |-- fabric-data-attachment-api-v1 1.4.0+dbad41f140
+	   |-- fabric-data-generation-api-v1 21.1.1+a730659c40
+	   |-- fabric-dimensions-v1 4.0.7+fd37071f40
+	   |-- fabric-entity-events-v1 2.0.8+825023f840
+	   |-- fabric-events-interaction-v0 2.0.12+c2c3ac4740
+	   |-- fabric-game-rule-api-v1 1.0.59+fd37071f40
+	   |-- fabric-item-api-v1 11.1.7+fd37071f40
+	   |-- fabric-item-group-api-v1 4.1.17+fd37071f40
+	   |-- fabric-key-binding-api-v1 1.0.53+fd37071f40
+	   |-- fabric-keybindings-v0 0.2.51+df3654b340
+	   |-- fabric-lifecycle-events-v1 2.5.1+6da5ef6940
+	   |-- fabric-loot-api-v2 3.0.26+3f89f5a540
+	   |-- fabric-loot-api-v3 1.0.14+fd37071f40
+	   |-- fabric-message-api-v1 6.0.21+fd37071f40
+	   |-- fabric-model-loading-api-v1 3.0.9+fd37071f40
+	   |-- fabric-networking-api-v1 4.3.5+fd37071f40
+	   |-- fabric-object-builder-api-v1 17.0.9+fd37071f40
+	   |-- fabric-particles-v1 4.0.10+fd37071f40
+	   |-- fabric-recipe-api-v1 7.0.4+fd37071f40
+	   |-- fabric-registry-sync-v0 5.4.1+3f3c499540
+	   |-- fabric-renderer-api-v1 4.0.5+fd37071f40
+	   |-- fabric-renderer-indigo 1.9.5+fd37071f40
+	   |-- fabric-rendering-data-attachment-v1 0.3.54+73761d2e40
+	   |-- fabric-rendering-fluids-v1 3.1.15+fd37071f40
+	   |-- fabric-rendering-v0 1.1.84+df3654b340
+	   |-- fabric-rendering-v1 8.0.8+6922831640
+	   |-- fabric-resource-conditions-api-v1 5.0.8+fd37071f40
+	   |-- fabric-resource-loader-v0 3.0.6+fd37071f40
+	   |-- fabric-screen-api-v1 2.0.34+fd37071f40
+	   |-- fabric-screen-handler-api-v1 1.3.103+fd37071f40
+	   |-- fabric-sound-api-v1 1.0.29+fd37071f40
+	   |-- fabric-tag-api-v1 1.0.0+a730659c40
+	   |-- fabric-transfer-api-v1 5.4.3+fd37071f40
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+54a41b1c40
+	- fabricloader 0.16.9
+	   \-- mixinextras 0.4.1
+	- geckolib 4.7.1
+	- java 21
+	- journeymap 1.21.3-6.0.0-beta.31
+	   |-- ar_com_hjg_pngj 2.1.0
+	   |-- commonnetworking 1.0.17-1.21.3
+	   \-- journeymap-api-fabric 2.0.0-1.21.3-SNAPSHOT
+	- minecraft 1.21.3
+[06:20:45] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Boudalan-Server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[06:20:45] [main/INFO]: Compatibility level set to JAVA_21
+[06:20:45] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:20:45] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[06:20:46] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[06:20:46] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[06:20:46] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[06:20:52] [main/INFO]: Initializing ServerSide Packet Registries
+[06:20:52] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:20:53] [main/INFO]: No existing world data, creating new world
+[06:20:54] [main/INFO]: Loaded 1337 recipes
+[06:20:54] [main/INFO]: Loaded 1448 advancements
+[06:20:54] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.458 ms
+[06:20:54] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[06:20:54] [Server thread/INFO]: Loading properties
+[06:20:54] [Server thread/INFO]: Default game type: SURVIVAL
+[06:20:54] [Server thread/INFO]: Generating keypair
+[06:20:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:20:54] [Server thread/INFO]: Using epoll channel type
+[06:20:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:20:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:20:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:20:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:20:54] [Server thread/INFO]: Preparing level "world"
+[06:21:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:21:02] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[06:21:03] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:21:03] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[06:21:03] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[06:21:04] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[06:21:04] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[06:21:05] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[06:21:05] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[06:21:06] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[06:21:06] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[06:21:07] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[06:21:07] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[06:21:08] [Server thread/INFO]: Time elapsed: 5764 ms
+[06:21:08] [Server thread/INFO]: Done (13.323s)! For help, type "help"
+[06:21:08] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[06:21:08] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@7fb3864f for service interface journeymap.api.services.ClientPlatformService
+[06:21:08] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@4b567291 for service interface journeymap.api.services.CommonPlatformService
+[06:21:08] [Server thread/INFO]: global (FirstLoaded) Setting config file to version "6.0.0-beta.31": journeymap.server.global.config
+[06:21:08] [Server thread/INFO]: global (Valid) Creating config file: journeymap/server/6.0/journeymap.server.global.config
+[06:21:08] [Server thread/INFO]: default (FirstLoaded) Setting config file to version "6.0.0-beta.31": journeymap.server.default.config
+[06:21:08] [Server thread/INFO]: default (Valid) Creating config file: journeymap/server/6.0/journeymap.server.default.config
+[06:21:08] [Server thread/INFO]: minecraft~overworld (Valid) Creating config file: journeymap/server/6.0/journeymap.server.minecraft~overworld.config
+[06:21:08] [Server thread/INFO]: minecraft~the_end (Valid) Creating config file: journeymap/server/6.0/journeymap.server.minecraft~the_end.config
+[06:21:08] [Server thread/INFO]: minecraft~the_nether (Valid) Creating config file: journeymap/server/6.0/journeymap.server.minecraft~the_nether.config
+[06:22:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
